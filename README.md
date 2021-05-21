@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yan @snakevirgo!
-- 👀 I’m interested in software engineering, especially in web development.
+- 👀 I’m interested in software engineering, especially in web development and blockchain.
 - 🌱 I’m currently learning MERN.
 - 💞️ I’m looking to collaborate on a new project using REACT.
 - 📫 How to reach me ...
