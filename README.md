@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning voice assistants.
 - 💞️ I’m going to incorporate the voice assistant feature to my next project.
 - 📫 How to reach me ...
-                        email me at yal@pdx.edu or iris.ngarden@gmail.com
+                        email me at iris.ngarden@gmail.com
 
 <!---
 snakevirgo/snakevirgo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
